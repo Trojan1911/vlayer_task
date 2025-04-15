@@ -3,13 +3,14 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                primary: "#7065F0", // ten fiolet z buttona Sign Up
+                primary: "#6851FF",
                 secondary: "#ffffff",
                 heading: "#111827",
                 subtext: "#6B7280",
             },
             fontFamily: {
-                sans: ["Inter", "sans-serif"],
+                sans: ["Inter", "sans-serif"]
+                
             },
         },
     },

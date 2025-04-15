@@ -1,5 +1,5 @@
 import Image from "next/image";
-import LogoImage from "../../../../public/Logotype.webp"
+import LogoImage from "../../../../public/assets/Logotype.webp"
 
 type LogoProps = {
     logoWidth?: number | undefined;
